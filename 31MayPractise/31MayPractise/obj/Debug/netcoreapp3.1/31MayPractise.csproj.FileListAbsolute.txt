@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\P227\31MayPractise\31MayPractise\bin\Debug\netcoreapp3.1\31MayPractise.exe
+C:\Users\LENOVO\Desktop\P227\31MayPractise\31MayPractise\bin\Debug\netcoreapp3.1\31MayPractise.deps.json
+C:\Users\LENOVO\Desktop\P227\31MayPractise\31MayPractise\bin\Debug\netcoreapp3.1\31MayPractise.runtimeconfig.json
+C:\Users\LENOVO\Desktop\P227\31MayPractise\31MayPractise\bin\Debug\netcoreapp3.1\31MayPractise.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\P227\31MayPractise\31MayPractise\bin\Debug\netcoreapp3.1\31MayPractise.dll
+C:\Users\LENOVO\Desktop\P227\31MayPractise\31MayPractise\bin\Debug\netcoreapp3.1\31MayPractise.pdb
+C:\Users\LENOVO\Desktop\P227\31MayPractise\31MayPractise\obj\Debug\netcoreapp3.1\31MayPractise.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\P227\31MayPractise\31MayPractise\obj\Debug\netcoreapp3.1\31MayPractise.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\P227\31MayPractise\31MayPractise\obj\Debug\netcoreapp3.1\31MayPractise.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\P227\31MayPractise\31MayPractise\obj\Debug\netcoreapp3.1\31MayPractise.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\P227\31MayPractise\31MayPractise\obj\Debug\netcoreapp3.1\31MayPractise.dll
+C:\Users\LENOVO\Desktop\P227\31MayPractise\31MayPractise\obj\Debug\netcoreapp3.1\31MayPractise.pdb
+C:\Users\LENOVO\Desktop\P227\31MayPractise\31MayPractise\obj\Debug\netcoreapp3.1\31MayPractise.genruntimeconfig.cache
